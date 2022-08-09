@@ -47,6 +47,7 @@ constexpr auto type_name()
     return name;
 }
 
+// Enzo: DemoBasics, simplemente prueba integridad de librerias, solo imprime.
 // From: https://en.cppreference.com/w/cpp/io/manip/boolalpha 
 #include <sstream>
 #include <locale>
